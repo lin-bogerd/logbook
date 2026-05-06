@@ -1,8 +1,8 @@
 first line
-2nd line
+second line
 third line
 fourth line
 fifth line
 sixth line
 seventh line
->>>>>>> b1
+eighth line
